@@ -1,22 +1,8 @@
-% Stanford University PhD thesis style -- modifications to the report style
-% This is unofficial so you should always double check against the
-% Registrar's office rules
-% See http://library.stanford.edu/research/bibliography-management/latex-and-bibtex
-% 
-% Example of use below
-% See the suthesis-2e.sty file for documentation
-%
-\documentclass[11pt]{report}
+\documentclass[12pt]{report}
 \usepackage[online]{suthesis-2e}
 \usepackage{hyperref}
-\hypersetup{
-  citecolor=black,
-  colorlinks=true,
-  linkcolor=black,
-  urlcolor=black
-}
-% CITATIONS
-\usepackage{csquotes}% Recommended
+\usepackage{csquotes}
+\usepackage{fancyhdr}
 \usepackage[
     style=authoryear-ibid, 
     backend=biber,
@@ -26,26 +12,36 @@
     uniquename=false
 ]{biblatex}
 
+\hypersetup{
+  citecolor=black,
+  colorlinks=true,
+  linkcolor=black,
+  urlcolor=black
+}
+
 \addbibresource{references.bib}
+
+\begin{document}
+\title{
+    Attending to remember: Pupillometric approaches for understanding how fluctuations in arousal-attentional states shape episodic memory
+}
+\author{SHAWN TYLER SCHWARTZ}
 \dept{Psychology}
 \submitdate{JUNE 2026}
 
-\begin{document}
-\title{Attending to remember: Pupillometric approaches for understanding how fluctuations in arousal-attentional states shape episodic memory
-}
-\author{SHAWN TYLER SCHWARTZ}
-\principaladviser{Anthony D. Wagner}
-\firstreader{Russell A. Poldrack}
-\secondreader{Kalanit Grill-Spector}
-% \thirdreader{Elizabeth C. Mormino} %if needed
-% \fourthreader{Judith E. Fan} %if needed
- 
 \beforepreface
-\prefacesection{Preface}
-This thesis tells you all you need to know about...
-\prefacesection{Acknowledgments}
-I would like to thank...
+\include{frontmatter/1-abstract}
+\include{frontmatter/2-preface}
+\include{frontmatter/3-acknowledgments}
+\include{frontmatter/4-dedication}
 \afterpreface
+
+\pagestyle{fancy}
+\fancyhf{}
+\fancyhead[R]{\thepage}
+\fancyhead[L]{\leftmark}
+\renewcommand{\chaptermark}[1]{\markboth{\thechapter.\quad \MakeUppercase{#1}}{}}
+\renewcommand{\sectionmark}[1]{}
 
 \include{chapters/1-introduction}
 \include{chapters/2-closed-loop-review}
