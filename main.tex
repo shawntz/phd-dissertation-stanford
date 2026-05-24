@@ -6,19 +6,39 @@
 % Example of use below
 % See the suthesis-2e.sty file for documentation
 %
-\documentclass{report}
-\usepackage{suthesis-2e}
-\dept{Computer Science}
+\documentclass[11pt]{report}
+\usepackage[online]{suthesis-2e}
+\usepackage{hyperref}
+\hypersetup{
+  citecolor=black,
+  colorlinks=true,
+  linkcolor=black,
+  urlcolor=black
+}
+% CITATIONS
+\usepackage{csquotes}% Recommended
+\usepackage[
+    style=authoryear-ibid, 
+    backend=biber,
+    style=apa,
+    maxcitenames=2,
+    uniquelist=false,
+    uniquename=false
+]{biblatex}
+
+\addbibresource{references.bib}
+\dept{Psychology}
+\submitdate{JUNE 2026}
 
 \begin{document}
-\title{How to Write Theses\\
-            With Two Line Titles}
-\author{John Henry Candidate}
-\principaladviser{John Parker}
-\firstreader{John Green}
-\secondreader{John BigBooty}
-\thirdreader{Jane Supernumerary} %if needed
-\fourthreader{Severus Snape} %if needed
+\title{Attending to remember: Pupillometric approaches for understanding how fluctuations in arousal-attentional states shape episodic memory
+}
+\author{SHAWN TYLER SCHWARTZ}
+\principaladviser{Anthony D. Wagner}
+\firstreader{Russell A. Poldrack}
+\secondreader{Kalanit Grill-Spector}
+% \thirdreader{Elizabeth C. Mormino} %if needed
+% \fourthreader{Judith E. Fan} %if needed
  
 \beforepreface
 \prefacesection{Preface}
@@ -27,13 +47,14 @@ This thesis tells you all you need to know about...
 I would like to thank...
 \afterpreface
 
-\chapter{Introduction}
-...
+\include{chapters/1-introduction}
+\include{chapters/2-closed-loop-review}
+\include{chapters/3-closed-loop-manu}
+\include{chapters/4-eyeris}
 \chapter{Conclusions}
 ...
 \appendix
 \chapter{A Long Proof}
 ...
-\bibliographystyle{plain}
-\bibliography{mybib}
+\printbibliography
 \end{document}
