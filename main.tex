@@ -1,46 +1,15 @@
 \documentclass[12pt]{report}
-\usepackage[online]{suthesis-2e}
-\usepackage{hyperref}
-\usepackage{csquotes}
-\usepackage{fancyhdr}
-\usepackage[
-    style=authoryear-ibid, 
-    backend=biber,
-    style=apa,
-    maxcitenames=2,
-    uniquelist=false,
-    uniquename=false
-]{biblatex}
-
-\hypersetup{
-  citecolor=black,
-  colorlinks=true,
-  linkcolor=black,
-  urlcolor=black
-}
-
+\include{packages}
 \addbibresource{references.bib}
-
 \begin{document}
-\title{Attending to remember: Pupillometric approaches for understanding how fluctuations in arousal-attentional states shape episodic memory}
-\author{SHAWN TYLER SCHWARTZ}
-\dept{Psychology}
-\submitdate{JUNE 2026}
-
+\include{title}
 \beforepreface
 \include{frontmatter/1-abstract}
 \include{frontmatter/2-preface}
 \include{frontmatter/3-acknowledgments}
 \include{frontmatter/4-dedication}
 \afterpreface
-
-\pagestyle{fancy}
-\fancyhf{}
-\fancyhead[R]{\thepage}
-\fancyhead[L]{\leftmark}
-\renewcommand{\chaptermark}[1]{\markboth{\thechapter.\quad \MakeUppercase{#1}}{}}
-\renewcommand{\sectionmark}[1]{}
-
+\include{header}
 \include{chapters/1-introduction}
 \include{chapters/2-closed-loop-review}
 \include{chapters/3-closed-loop-manu}
