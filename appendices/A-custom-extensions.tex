@@ -1,0 +1,44 @@
+\chapter{Custom \texttt{eyeris} Extension Source Code}\label{app:custom-extensions}
+
+\section*{1) Write core operation function logic.}
+\begin{lstlisting}
+winsorize_pupil <- function(x, prev_op, lower = .01, upper = .99) {
+  vec <- x[[prev_op]]
+  q <- quantile(vec, probs = c(lower, upper), na.rm = TRUE)
+  vec[vec < q[1]] <- q[1]
+  vec[vec > q[2]] <- q[2]
+  vec
+}
+\end{lstlisting}
+
+\section*{2) Create wrapper using the \texttt{pipeline\_handler()} function.}
+\begin{lstlisting}
+#' Winsorize pupil values
+#'
+#' Applies winsorization to extreme pupil values within
+#' each block.
+#'
+#' @param eyeris An `eyeris' object created by [load_asc()].
+#' @param lower Lower quantile threshold. Default is 0.01.
+#' @param upper Upper quantile threshold. Default is 0.99.
+#'
+#' @return Updated `eyeris' object with new winsorized
+#' pupil column.
+winsorize <- function(eyeris, lower = .01, upper = .99) {
+  pipeline_handler(
+    eyeris,
+    winsorize_pupil,
+    "winsorize",
+    lower = lower,
+    upper = upper
+  )
+}
+\end{lstlisting}
+
+\section*{3) Invoke custom function in \texttt{eyeris} pipeline call.}
+\begin{lstlisting}
+system.file("extdata", "memory.asc", package = "eyeris") |>
+  eyeris::load_asc(block = "auto") |>
+  eyeris::deblink(extend = 50) |>
+  winsorize()
+\end{lstlisting}
