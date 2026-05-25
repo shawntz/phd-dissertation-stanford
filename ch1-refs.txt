@@ -1,0 +1,149 @@
+Anderson B. A., Kim H., Kim A. J., Liao M.-R., Mrkonja L., Clement A., Grégoire L. (2021). The past, present, and future of selection history. Neuroscience and Biobehavioral Reviews, 130, 326–350.
+
+Awh E., Belopolsky A. V., Theeuwes J. (2012). Top-down versus bottom-up attentional control: A failed theoretical dichotomy. Trends in Cognitive Sciences, 16(8), 437–443. https://doi.org/10.1016/j.tics.2012.06.010
+
+Baddeley A., Lewis V., Eldridge M., Thomson N. (1984). Attention and retrieval from long-term memory. Journal of Experimental Psychology: General, 113(4), 518–540. https://doi.org/10.1037/0096-3445.113.4.518
+
+Bein O., Plotkin N. A., Davachi L. (2021). Mnemonic prediction errors promote detailed memories. Learning & Memory, 28(11), 422–434. https://doi.org/10.1101/lm.053410.121
+
+Biba T. M., Decker A., Herrmann B., Fukuda K., Katz C., Valiante T., Duncan K. (2024). Memory’s pulse: Episodic memory formation is theta-rhythmic. PsyArXiv. https://doi.org/10.31234/osf.io/s8nda
+
+Busch N. A., VanRullen R. (2010). Spontaneous EEG oscillations reveal periodic sampling of visual attention. Proceedings of the National Academy of Sciences USA, 107(37), 16048–16053. https://doi.org/10.1073/pnas.1004801107
+
+Cabeza R., Ciaramelli E., Olson I. R., Moscovitch M. (2008). The parietal cortex and episodic memory: An attentional account. Nature Reviews Neuroscience, 9(8), 613–625. https://doi.org/10.1038/nrn2459
+
+Cohen N., Pell L., Edelson M. G., Ben-Yakov A., Pine A., Dudai Y. (2015). Peri-encoding predictors of memory encoding and consolidation. Neuroscience and Biobehavioral Reviews, 50, 128–142. https://doi.org/10.1016/j.neubiorev.2014.11.002
+
+Cole M. W., Schneider W. (2007). The cognitive control network: Integrated cortical regions with dissociable functions. NeuroImage, 37(1), 343–360. https://doi.org/10.1016/j.neuroimage.2007.03.071
+
+Cooper R. A., Ritchey M. (2019). Cortico-hippocampal network connections support the multidimensional quality of episodic memory. eLife, 8, Article e45591. https://doi.org/10.7554/eLife.45591
+
+Corbetta M., Patel G., Shulman G. L. (2008). The reorienting system of the human brain: From environment to theory of mind. Neuron, 58(3), 306–324. https://doi.org/10.1016/j.neuron.2008.04.017
+
+Corbetta M., Shulman G. (2002). Control of goal-directed and stimulus-driven attention in the brain. Nature Reviews Neuroscience, 3, 201–215. https://doi.org/10.1038/nrn755
+
+Craik F. I., Naveh-Benjamin M., Anderson N. D. (1996). The effects of divided attention on encoding and retrieval processes in human memory. Journal of Experimental Psychology: General, 125(2), 159–180.
+
+deBettencourt M. T., Cohen J. D., Lee R. F., Norman K. A., Turk-Browne N. B. (2015). Closed-loop training of attention with real-time brain imaging. Nature Neuroscience, 18(3), 470–475. https://doi.org/10.1038/nn.3940
+
+deBettencourt M. T., Keene P. A., Awh E., Vogel E. K. (2019). Real-time triggering reveals concurrent lapses of attention and working memory. Nature Human Behaviour, 3(8), 808–816. https://doi.org/10.1038/s41562-019-0606-6
+
+deBettencourt M. T., Norman K. A., Turk-Browne N. B. (2018). Forgetting from lapses of sustained attention. Psychonomic Bulletin & Review, 25(2), 605–611. https://doi.org/10.3758/s13423-017-1309-5
+
+den Ouden H. E. M., Kok P., de Lange F. P. (2012). How prediction errors shape perception, attention, and motivation. Frontiers in Psychology, 3, Article 548. https://doi.org/10.3389/fpsyg.2012.00548
+
+Dobbins I. G., Wagner A. D. (2005). Domain-general and domain-sensitive prefrontal mechanisms for recollecting events and detecting novelty. Cerebral Cortex, 15(11), 1768–1778. https://doi.org/10.1093/cercor/bhi054
+
+Duncan K., Sadanand A., Davachi L. (2012). Memory’s penumbra: Episodic memory decisions induce lingering mnemonic biases. Science, 337(6093), 485–487. https://doi.org/10.1126/science.1221936
+
+Ebbinghaus H. (2013). Memory: A contribution to experimental psychology. Annals of Neurosciences, 20(4), 155–156. https://doi.org/10.5214/ans.0972.7531.200408 (Original work published 1885)
+
+Fernandez C., Madore K. P., Wagner A. D. (2024). Encoding and the medial temporal lobe. In Kahana M. J., Wagner A. D. (Eds.), The Oxford handbook of human memory, two volume pack: Foundations and applications (pp. 650–688). Oxford University Press. https://doi.org/10.1093/oxfordhb/9780190917982.013.23
+
+Fiebelkorn I. C., Kastner S. (2019). A rhythmic theory of attention. Trends in Cognitive Sciences, 23(2), 87–101. https://doi.org/10.1016/j.tics.2018.11.009
+
+Fortenbaugh F. C., DeGutis J., Germine L., Wilmer J. B., Grosso M., Russo K., Esterman M. (2015). Sustained attention across the life span in a sample of 10,000: Dissociating ability and strategy. Psychological Science, 26(9), 1497–1510. https://doi.org/10.1177/0956797615594896
+
+Hanslmayr S., Staresina B. P., Jensen O. (2024). Oscillatory brain mechanisms for memory formation: Online and offline processes. In Kahana M. J., Wagner A. D. (Eds.), The Oxford handbook of human memory, two volume pack: Foundations and applications (pp. 711–739). Oxford University Press. https://doi.org/10.1093/oxfordhb/9780190917982.013.25
+
+Hasselmo M. E., Bodelón C., Wyble B. P. (2002). A proposed function for hippocampal theta rhythm: Separate phases of encoding and retrieval enhance reversal of prior learning. Neural Computation, 14(4), 793–817. https://doi.org/10.1162/089976602317318965
+
+Hedden T., Gabrieli J. D. E. (2004). Insights into the ageing mind: A view from cognitive neuroscience. Nature Reviews Neuroscience, 5(2), 87–96. https://doi.org/10.1038/nrn1323
+
+Herweg N. A., Solomon E. A., Kahana M. J. (2020). Theta oscillations in human memory. Trends in Cognitive Sciences, 24(3), 208–227. https://doi.org/10.1016/j.tics.2019.12.006
+
+Hsieh L.-T., Ranganath C. (2014). Frontal midline theta oscillations during working memory maintenance and episodic encoding and retrieval. NeuroImage, 85(Pt. 2), 721–729. https://doi.org/10.1016/j.neuroimage.2013.08.003
+
+Hutchinson J. B., Turk-Browne N. B. (2012). Memory-guided attention: Control from multiple memory systems. Trends in Cognitive Sciences, 16(12), 576–579. https://doi.org/10.1016/j.tics.2012.10.003
+
+Hutchinson J. B., Uncapher M. R., Weiner K. S., Bressler D. W., Silver M. A., Preston A. R., Wagner A. D. (2014). Functional heterogeneity in posterior parietal cortex across attention and episodic memory retrieval. Cerebral Cortex, 24(1), 49–66. https://doi.org/10.1093/cercor/bhs278
+
+Keene P. A., deBettencourt M. T., Awh E., Vogel E. K. (2022). Pupillometry signatures of sustained attention and working memory. Attention, Perception & Psychophysics, 84(8), 2472–2482. https://doi.org/10.3758/s13414-022-02557-5
+
+Kerrén C., Linde-Domingo J., Hanslmayr S., Wimber M. (2018). An optimal oscillatory phase for pattern reactivation during memory retrieval. Current Biology, 28(21), 3383–3392.e6. https://doi.org/10.1016/j.cub.2018.08.065
+
+Koen J. D., Srokova S., Rugg M. D. (2020). Age-related neural dedifferentiation and cognition. Current Opinion in Behavioral Sciences, 32, 7–14. https://doi.org/10.1016/j.cobeha.2020.01.006
+
+Korkki S. M., Richter F. R., Gellersen H. M., Simons J. S. (2023). Reduced memory precision in older age is associated with functional and structural differences in the angular gyrus. Neurobiology of Aging, 129, 109–120. https://doi.org/10.1016/j.neurobiolaging.2023.04.009
+
+Korkki S. M., Richter F. R., Jeyarathnarajah P., Simons J. S. (2020). Healthy ageing reduces the precision of episodic memory retrieval. Psychology and Aging, 35(1), 124–142. https://doi.org/10.1037/pag0000432
+
+Kragel J. E., VanHaerents S., Templer J. W., Schuele S., Rosenow J. M., Nilakantan A. S., Bridge D. J. (2020). Hippocampal theta coordinates memory processing during visual exploration. eLife, 9, Article e52108 https://doi.org/10.7554/eLife.52108
+
+Kunec S., Hasselmo M. E., Kopell N. (2005). Encoding and retrieval in the CA3 region of the hippocampus: A model of theta-phase separation. Journal of Neurophysiology, 94(1), 70–82. https://doi.org/10.1152/jn.00731.2004
+
+Li A. Y., Liang J. C., Lee A. C. H., Barense M. D. (2020). The validated circular shape space: Quantifying the visual similarity of shape. Journal of Experimental Psychology: General, 149(5), 949–966. https://doi.org/10.1037/xge0000693
+
+Ma W. J., Husain M., Bays P. M. (2014). Changing concepts of working memory. Nature Neuroscience, 17(3), 347–356. https://doi.org/10.1038/nn.3655
+
+Madore K. P., Khazenzon A. M., Backes C. W., Jiang J., Uncapher M. R., Norcia A. M., Wagner A. D. (2020). Memory failure predicted by attention lapsing and media multitasking. Nature, 587(7832), 87–91. https://doi.org/10.1038/s41586-020-2870-z
+
+Madore K. P., Wagner A. D. (2022). Readiness to remember: Predicting variability in episodic memory. Trends in Cognitive Sciences, 26(8), 707–723. https://doi.org/10.1016/j.tics.2022.05.006
+
+Maoz S. L. L., Stangl M., Topalovic U., Batista D., Hiller S., Aghajan Z. M., Knowlton B., Stern J., Langevin J.-P., Fried I., Eliashiv D., Suthana N. (2023). Dynamic neural representations of memory and space during human ambulatory navigation. Nature Communications, 14(1), Article 6643. https://doi.org/10.1038/s41467-023-42231-4
+
+Menon V., D’Esposito M. (2022). The role of PFC networks in cognitive control and executive function. Neuropsychopharmacology, 47(1), 90–103. https://doi.org/10.1038/s41386-021-01152-w
+
+Miller A. L., Gross M. P., Unsworth N. (2019). Individual differences in working memory capacity and long-term memory: The influence of intensity of attention to items at encoding as measured by pupil dilation. Journal of Memory and Language, 104, 25–42. https://doi.org/10.1016/j.jml.2018.09.005
+
+Miller A. L., Unsworth N. (2020). Variation in attention at encoding: Insights from pupillometry and eye gaze fixations. Journal of Experimental Psychology. Learning, Memory, and Cognition, 46(12), 2277–2294. https://doi.org/10.1037/xlm0000797
+
+Mitchell D. J., McNaughton N., Flanagan D., Kirk I. J. (2008). Frontal-midline theta from the perspective of hippocampal “theta.” Progress in Neurobiology, 86(3), 156–185. https://doi.org/10.1016/j.pneurobio.2008.09.005
+
+Murdock B. B. Jr. (1965). Effects of a subsidiary task on short-term memory. British Journal of Psychology, 56(4), 413–419. https://doi.org/10.1111/j.2044-8295.1965.tb00983.x
+
+Nilakantan A. S., Bridge D. J., VanHaerents S., Voss J. L. (2018). Distinguishing the precision of spatial recollection from its success: Evidence from healthy aging and unilateral mesial temporal lobe resection. Neuropsychologia, 119, 101–106. https://doi.org/10.1016/j.neuropsychologia.2018.07.035
+
+Nobre A. C., Stokes M. G. (2019). Premembering experience: A hierarchy of time-scales for proactive attention. Neuron, 104(1), 132–146.
+
+Park D. C., McDonough I. M. (2013). The dynamic aging mind: Revelations from functional neuroimaging research. Perspectives on Psychological Science, 8(1), 62–67. https://doi.org/10.1177/1745691612469034
+
+Posner M. I., Petersen S. E. (1990). The attention system of the human brain. Annual Review of Neuroscience, 13(1), 25–42.
+
+Richter F. R., Cooper R. A., Bays P. M., Simons J. S. (2016). Distinct neural mechanisms underlie the success, precision, and vividness of episodic memory. eLife, 5, Article e18260. https://doi.org/10.7554/eLife.18260
+
+Robison M. K., Trost J. M., Schor D., Gibson B. S., Healey M. K. (2022). Pupillary correlates of individual differences in long-term memory. Psychonomic Bulletin & Review, 29(4), 1355–1366. https://doi.org/10.3758/s13423-022-02081-5
+
+Saint Amour di Chanaz L., Pérez-Bellido A., Wu X., Lonzano-Soldevilla D., Pacheco-Estefan D., Lehongre K., Conde-Blanco E., Roldan P., Adam C., Lambrecq V., Frazzini V., Donaire A., Carreño M., Navarro V., Valero-Cabré A., Fuentemilla L. (2023). Gamma amplitude is coupled to opposed hippocampal theta-phase states during the encoding and retrieval of episodic memories in humans. Current Biology, 33(9), 1836–1843.e6. https://doi.org/10.1016/j.cub.2023.03.073
+
+Salari N., Rose M. (2016). Dissociation of the functional relevance of different pre-stimulus oscillatory activity for memory formation. NeuroImage, 125, 1013–1021. https://doi.org/10.1016/j.neuroimage.2015.10.037
+
+Schwartz S. T. (2025a). Figure 1: Interactions between neural networks of attention, goal-state processes, and memory. BioRender. https://BioRender.com/mejp1fu
+
+Schwartz S. T. (2025b). Figure 3: Memory precision in aging. BioRender. https://BioRender.com/n00n200
+
+Schwartz S. T. (2025c). Figure 4: Testing the causality of attention for remembering. BioRender. https://BioRender.com/k46d189
+
+Sheng J., Trelle A. N., Romero A., Park J., Tran T. T., Sha S., Andreasson K., Wilson E. N., Mormino E., Wagner A. D. (2024). Top-down attention and Alzheimer’s pathology impact cortical selectivity during learning, influencing episodic memory in older adults. bioRxiv. https://doi.org/10.1101/2024.12.04.626911
+
+Souza A. S., Frischkorn G. T., Oberauer K. (2024). Older yet sharp: No general age-related decline in focusing attention. Journal of Experimental Psychology: General, 153(10), 2552–2572. https://doi.org/10.1037/xge0001649
+
+Stark S. M., Kirwan C. B., Stark C. E. L. (2019). Mnemonic similarity task: A tool for assessing hippocampal integrity. Trends in Cognitive Sciences, 23(11), 938–951. https://doi.org/10.1016/j.tics.2019.08.003
+
+Sutterer D. W., Awh E. (2016). Retrieval practice enhances the accessibility but not the quality of memory. Psychonomic Bulletin & Review, 23(3), 831–841. https://doi.org/10.3758/s13423-015-0937-x
+
+Ter Wal M., Linde-Domingo J., Lifanov J., Roux F., Kolibius L. D., Gollwitzer S., Lang J., Hamer H., Rollings D., Sawlani V., Chelvarajah R., Staresina B., Hanslmayr S., Wimber M. (2021). Theta rhythmicity governs human behavior and hippocampal signals during memory-dependent tasks. Nature Communications, 12, Article 7048. https://doi.org/10.1038/s41467-021-27323-3
+
+Theves S., Grande X., Duzel E., Doeller C. F. (2024). Pattern completion and the medial temporal lobe memory system. In Kahana M. J., Wagner A. D. (Eds.), The Oxford handbook of human memory, two volume pack: Foundations and applications (pp. 988–1016). Oxford University Press. https://doi.org/10.1093/oxfordhb/9780190917982.013.34
+
+Trelle A. N., Carr V. A., Guerin S. A., Thieu M. K., Jayakumar M., Guo W., Nadiadwala A., Corso N. K., Hunt M. P., Litovsky C. P., Tanner N. J., Deutsch G. K., Bernstein J. D., Harrison M. B., Khazenzon A. M., Jiang J., Sha S. J., Fredericks C. A., Rutt B. K., . . . Wagner A. D. (2020). Hippocampal and cortical mechanisms at retrieval explain variability in episodic remembering in older adults. eLife, 9, Article e55335. https://doi.org/10.7554/eLife.55335
+
+Uncapher M. R., Rugg M. D. (2009). Selecting for memory? The influence of selective attention on the mnemonic binding of contextual information. Journal of Neuroscience, 29(25), 8270–8279. https://doi.org/10.1523/JNEUROSCI.1043-09.2009
+
+Uncapher M. R., Wagner A. D. (2009). Posterior parietal cortex and episodic encoding: Insights from fMRI subsequent memory effects and dual-attention theory. Neurobiology of Learning and Memory, 91(2), 139–154. https://doi.org/10.1016/j.nlm.2008.10.011
+
+VanRullen R. (2016). Perceptual cycles. Trends in Cognitive Sciences, 20(10), 723–735. https://doi.org/10.1016/j.tics.2016.07.006
+
+VanRullen R., Dubois J. (2011). The psychophysics of brain rhythms. Frontiers in Psychology, 2, Article 203. https://doi.org/10.3389/fpsyg.2011.00203
+
+Waskom M. L., Kumaran D., Gordon A. M., Rissman J., Wagner A. D. (2014). Frontoparietal representations of task context support the flexible control of goal-directed cognition. Journal of Neuroscience, 34(32), 10743–10755. https://doi.org/10.1523/JNEUROSCI.5282-13.2014
+
+Xue A. M., Schwartz S. T. (2025). Figure 2: Rhythmic nature of attention and memory. BioRender. https://BioRender.com/p71c406
+
+Yeo B. T. T., Krienen F. M., Sepulcre J., Sabuncu M. R., Lashkari D., Hollinshead M., Roffman J. L., Smoller J. W., Zöllei L., Polimeni J. R., Fischl B., Liu H., Buckner R. L. (2011). The organization of the human cerebral cortex estimated by intrinsic functional connectivity. Journal of Neurophysiology, 106(3), 1125–1165. https://doi.org/10.1152/jn.00338.2011
+
+Yoo J. J., Hinds O., Ofen N., Thompson T. W., Whitfield-Gabrieli S., Triantafyllou C., Gabrieli J. D. E. (2012). When the brain is prepared to learn: Enhancing human learning using real-time fMRI. NeuroImage, 59(1), 846–852. https://doi.org/10.1016/j.neuroimage.2011.07.063
+
+Zhang W., Luck S. J. (2008). Discrete fixed-resolution representations in visual working memory. Nature, 453(7192), 233–235. https://doi.org/10.1038/nature06860
+
+Zhao Y., Kuhl B. A. (2024). Content reinstatement. In Kahana M. J., Wagner A. D. (Eds.), The Oxford handbook of human memory, two volume pack: Foundations and applications (pp. 1091–1113). Oxford University Press. https://doi.org/10.1093/oxfordhb/9780190917982.013.37
