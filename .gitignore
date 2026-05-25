@@ -8,3 +8,5 @@
 *.gz
 *.toc
 .DS_Store
+main.bbl
+*.blg
