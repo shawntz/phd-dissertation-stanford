@@ -7,8 +7,8 @@
 *.xml
 *.gz
 *.toc
-.DS_Store
-main.bbl
+*.bbl
 *.blg
 *.lob
 *.pdf
+.DS_Store
