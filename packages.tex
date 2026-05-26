@@ -5,6 +5,9 @@
 \usepackage{mdframed}
 \usepackage{xcolor}
 \usepackage{listings}
+\usepackage{amssymb}
+\usepackage{tabularx}
+\newcolumntype{C}{>{\centering\arraybackslash}X}
 \usepackage{hyperref}
 
 \definecolor{rkeyword}{RGB}{0,80,180}
@@ -51,7 +54,7 @@
    \label{box:#1}%
    \addcontentsline{lob}{eyerisbox}{\protect\numberline{\theeyerisbox}#2}%
    \begin{mdframed}[backgroundcolor=white,linecolor=black,linewidth=0.5pt,innerleftmargin=10pt,innerrightmargin=10pt,innertopmargin=10pt,innerbottommargin=10pt,nobreak=true]%
-   \sloppy\emergencystretch=3em%
+   \small\sloppy\emergencystretch=3em%
    \noindent\textbf{Box~\theeyerisbox.} \textit{#2}\par\medskip}
   {\end{mdframed}}
 
